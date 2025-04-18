@@ -1,0 +1,511 @@
+[
+  {
+    "label": "definition",
+    "phrase": "Where is the function load_data defined?",
+    "symbol": "load_data",
+    "vector": {
+      "where": 0.3282401077442512,
+      "is": 0.21271557765092702,
+      "the": 0.3282401077442512,
+      "function": 0.626866685948927,
+      "load_data": 0.5113421558556028,
+      "defined": 0.626866685948927
+    }
+  },
+  {
+    "label": "definition",
+    "phrase": "What is DataProcessor?",
+    "symbol": "DataProcessor",
+    "vector": {
+      "what": 0.605096655546083,
+      "is": 0.42543115530185405,
+      "dataprocessor": 1.0226843117112057
+    }
+  },
+  {
+    "label": "definition",
+    "phrase": "Tell me where train_model is implemented.",
+    "symbol": "train_model",
+    "vector": {
+      "tell": 0.626866685948927,
+      "me": 0.626866685948927,
+      "where": 0.3282401077442512,
+      "train_model": 0.44376463783757547,
+      "is": 0.21271557765092702,
+      "implemented": 0.626866685948927
+    }
+  },
+  {
+    "label": "definition",
+    "phrase": "Define clean_text.",
+    "symbol": "clean_text",
+    "vector": {
+      "define": 1.8806000578467812,
+      "clean_text": 1.8806000578467812
+    }
+  },
+  {
+    "label": "definition",
+    "phrase": "Which file defines extract_features?",
+    "symbol": "extract_features",
+    "vector": {
+      "which": 0.5379405508148655,
+      "file": 0.9403000289233906,
+      "defines": 0.9403000289233906,
+      "extract_features": 0.9403000289233906
+    }
+  },
+  {
+    "label": "definition",
+    "phrase": "Where can I find compute_loss?",
+    "symbol": "compute_loss",
+    "vector": {
+      "where": 0.3938881292931015,
+      "can": 0.7522400231387125,
+      "i": 0.7522400231387125,
+      "find": 0.5325175654050905,
+      "compute_loss": 0.7522400231387125
+    }
+  },
+  {
+    "label": "usage",
+    "phrase": "Where is load_data used?",
+    "symbol": "load_data",
+    "vector": {
+      "where": 0.49236016161637686,
+      "is": 0.31907336647639056,
+      "load_data": 0.7670132337834042,
+      "used": 0.49236016161637686
+    }
+  },
+  {
+    "label": "usage",
+    "phrase": "Show every place clean_data is called.",
+    "symbol": "clean_data",
+    "vector": {
+      "show": 0.44376463783757547,
+      "every": 0.626866685948927,
+      "place": 0.626866685948927,
+      "clean_data": 0.5113421558556028,
+      "is": 0.21271557765092702,
+      "called": 0.626866685948927
+    }
+  },
+  {
+    "label": "usage",
+    "phrase": "Which scripts use fetch_records?",
+    "symbol": "fetch_records",
+    "vector": {
+      "which": 0.5379405508148655,
+      "scripts": 0.9403000289233906,
+      "use": 0.9403000289233906,
+      "fetch_records": 0.9403000289233906
+    }
+  },
+  {
+    "label": "usage",
+    "phrase": "List all occurrences of filter_invalid_rows.",
+    "symbol": "filter_invalid_rows",
+    "vector": {
+      "list": 0.5325175654050905,
+      "all": 0.5325175654050905,
+      "occurrences": 0.7522400231387125,
+      "of": 0.3127951076714686,
+      "filter_invalid_rows": 0.7522400231387125
+    }
+  },
+  {
+    "label": "usage",
+    "phrase": "What files invoke train_model?",
+    "symbol": "train_model",
+    "vector": {
+      "what": 0.4538224916595623,
+      "files": 0.9403000289233906,
+      "invoke": 0.9403000289233906,
+      "train_model": 0.6656469567563632
+    }
+  },
+  {
+    "label": "usage",
+    "phrase": "Is evaluate_model used in main.py?",
+    "symbol": "evaluate_model",
+    "vector": {
+      "is": 0.21271557765092702,
+      "evaluate_model": 0.626866685948927,
+      "used": 0.3282401077442512,
+      "in": 0.3958176257622786,
+      "main": 0.44376463783757547,
+      "py": 0.3282401077442512
+    }
+  },
+  {
+    "label": "usage",
+    "phrase": "Give examples of transform being used.",
+    "symbol": "transform",
+    "vector": {
+      "give": 0.626866685948927,
+      "examples": 0.626866685948927,
+      "of": 0.2606625897262238,
+      "transform": 0.626866685948927,
+      "being": 0.626866685948927,
+      "used": 0.3282401077442512
+    }
+  },
+  {
+    "label": "summary",
+    "phrase": "Summarize the purpose of main.py.",
+    "symbol": "main.py",
+    "vector": {
+      "summarize": 0.626866685948927,
+      "the": 0.3282401077442512,
+      "purpose": 0.626866685948927,
+      "of": 0.2606625897262238,
+      "main": 0.44376463783757547,
+      "py": 0.3282401077442512
+    }
+  },
+  {
+    "label": "summary",
+    "phrase": "What does the repo do?",
+    "symbol": "repository",
+    "vector": {
+      "what": 0.3630579933276499,
+      "does": 0.5325175654050905,
+      "the": 0.3938881292931015,
+      "repo": 0.7522400231387125,
+      "do": 0.7522400231387125
+    }
+  },
+  {
+    "label": "summary",
+    "phrase": "Overview of the pipeline in preprocess.py.",
+    "symbol": "preprocess.py",
+    "vector": {
+      "overview": 0.5373143022419374,
+      "of": 0.22342507690819186,
+      "the": 0.28134866378078677,
+      "pipeline": 0.5373143022419374,
+      "in": 0.3392722506533816,
+      "preprocess": 0.5373143022419374,
+      "py": 0.28134866378078677
+    }
+  },
+  {
+    "label": "summary",
+    "phrase": "What is the main functionality of data_loader.py?",
+    "symbol": "data_loader.py",
+    "vector": {
+      "what": 0.22691124582978114,
+      "is": 0.15953668323819528,
+      "the": 0.24618008080818843,
+      "main": 0.3328234783781816,
+      "functionality": 0.4701500144616953,
+      "of": 0.19549694229466788,
+      "data_loader": 0.4701500144616953,
+      "py": 0.24618008080818843
+    }
+  },
+  {
+    "label": "summary",
+    "phrase": "Explain what train_pipeline.py is for.",
+    "symbol": "train_pipeline.py",
+    "vector": {
+      "explain": 0.5113421558556028,
+      "what": 0.3025483277730415,
+      "train_pipeline": 0.626866685948927,
+      "py": 0.3282401077442512,
+      "is": 0.21271557765092702,
+      "for": 0.35862703387657696
+    }
+  },
+  {
+    "label": "summary",
+    "phrase": "Briefly describe model.py.",
+    "symbol": "model.py",
+    "vector": {
+      "briefly": 0.9403000289233906,
+      "describe": 0.7670132337834042,
+      "model": 0.7670132337834042,
+      "py": 0.49236016161637686
+    }
+  },
+  {
+    "label": "library_usage",
+    "phrase": "How is pandas used?",
+    "symbol": "pandas",
+    "vector": {
+      "how": 0.9403000289233906,
+      "is": 0.31907336647639056,
+      "pandas": 0.9403000289233906,
+      "used": 0.49236016161637686
+    }
+  },
+  {
+    "label": "library_usage",
+    "phrase": "Where is numpy imported and used?",
+    "symbol": "numpy",
+    "vector": {
+      "where": 0.3282401077442512,
+      "is": 0.21271557765092702,
+      "numpy": 0.626866685948927,
+      "imported": 0.626866685948927,
+      "and": 0.5113421558556028,
+      "used": 0.3282401077442512
+    }
+  },
+  {
+    "label": "library_usage",
+    "phrase": "List where sklearn is applied.",
+    "symbol": "sklearn",
+    "vector": {
+      "list": 0.5325175654050905,
+      "where": 0.3938881292931015,
+      "sklearn": 0.7522400231387125,
+      "is": 0.25525869318111244,
+      "applied": 0.7522400231387125
+    }
+  },
+  {
+    "label": "library_usage",
+    "phrase": "Are there matplotlib plots?",
+    "symbol": "matplotlib",
+    "vector": {
+      "are": 0.7670132337834042,
+      "there": 0.9403000289233906,
+      "matplotlib": 0.9403000289233906,
+      "plots": 0.9403000289233906
+    }
+  },
+  {
+    "label": "library_usage",
+    "phrase": "Is requests used to fetch data?",
+    "symbol": "requests",
+    "vector": {
+      "is": 0.21271557765092702,
+      "requests": 0.626866685948927,
+      "used": 0.3282401077442512,
+      "to": 0.44376463783757547,
+      "fetch": 0.626866685948927,
+      "data": 0.5113421558556028
+    }
+  },
+  {
+    "label": "library_usage",
+    "phrase": "Show all usages of os.path.",
+    "symbol": "os.path",
+    "vector": {
+      "show": 0.44376463783757547,
+      "all": 0.44376463783757547,
+      "usages": 0.626866685948927,
+      "of": 0.2606625897262238,
+      "os": 0.626866685948927,
+      "path": 0.626866685948927
+    }
+  },
+  {
+    "label": "docstring",
+    "phrase": "Generate a docstring for clean_data.",
+    "symbol": "clean_data",
+    "vector": {
+      "generate": 0.7522400231387125,
+      "a": 0.6136105870267234,
+      "docstring": 0.6136105870267234,
+      "for": 0.4303524406518924,
+      "clean_data": 0.6136105870267234
+    }
+  },
+  {
+    "label": "docstring",
+    "phrase": "Write documentation for train_model.",
+    "symbol": "train_model",
+    "vector": {
+      "write": 0.9403000289233906,
+      "documentation": 0.9403000289233906,
+      "for": 0.5379405508148655,
+      "train_model": 0.6656469567563632
+    }
+  },
+  {
+    "label": "docstring",
+    "phrase": "Describe parse_config.",
+    "symbol": "parse_config",
+    "vector": {
+      "describe": 1.5340264675668085,
+      "parse_config": 1.8806000578467812
+    }
+  },
+  {
+    "label": "docstring",
+    "phrase": "Document load_json_config.",
+    "symbol": "load_json_config",
+    "vector": {
+      "document": 1.8806000578467812,
+      "load_json_config": 1.8806000578467812
+    }
+  },
+  {
+    "label": "docstring",
+    "phrase": "Add a docstring to DataCleaner.",
+    "symbol": "DataCleaner",
+    "vector": {
+      "add": 0.7522400231387125,
+      "a": 0.6136105870267234,
+      "docstring": 0.6136105870267234,
+      "to": 0.5325175654050905,
+      "datacleaner": 0.6136105870267234
+    }
+  },
+  {
+    "label": "docstring",
+    "phrase": "Explain inputs and outputs of fit_model.",
+    "symbol": "fit_model",
+    "vector": {
+      "explain": 0.5113421558556028,
+      "inputs": 0.626866685948927,
+      "and": 0.5113421558556028,
+      "outputs": 0.626866685948927,
+      "of": 0.2606625897262238,
+      "fit_model": 0.626866685948927
+    }
+  },
+  {
+    "label": "class_contents",
+    "phrase": "What methods are in DataProcessor?",
+    "symbol": "DataProcessor",
+    "vector": {
+      "what": 0.3630579933276499,
+      "methods": 0.6136105870267234,
+      "are": 0.6136105870267234,
+      "in": 0.47498115091473436,
+      "dataprocessor": 0.6136105870267234
+    }
+  },
+  {
+    "label": "class_contents",
+    "phrase": "Show functions in Trainer.",
+    "symbol": "Trainer",
+    "vector": {
+      "show": 0.6656469567563632,
+      "functions": 0.7670132337834042,
+      "in": 0.5937264386434179,
+      "trainer": 0.9403000289233906
+    }
+  },
+  {
+    "label": "class_contents",
+    "phrase": "List members of ModelWrapper.",
+    "symbol": "ModelWrapper",
+    "vector": {
+      "list": 0.6656469567563632,
+      "members": 0.9403000289233906,
+      "of": 0.39099388458933576,
+      "modelwrapper": 0.9403000289233906
+    }
+  },
+  {
+    "label": "class_contents",
+    "phrase": "Which methods does DataCleaner have?",
+    "symbol": "DataCleaner",
+    "vector": {
+      "which": 0.4303524406518924,
+      "methods": 0.6136105870267234,
+      "does": 0.5325175654050905,
+      "datacleaner": 0.6136105870267234,
+      "have": 0.7522400231387125
+    }
+  },
+  {
+    "label": "class_contents",
+    "phrase": "Break down PipelineManager.",
+    "symbol": "PipelineManager",
+    "vector": {
+      "break": 1.253733371897854,
+      "down": 1.253733371897854,
+      "pipelinemanager": 1.253733371897854
+    }
+  },
+  {
+    "label": "class_contents",
+    "phrase": "What does the Validator class contain?",
+    "symbol": "Validator",
+    "vector": {
+      "what": 0.3025483277730415,
+      "does": 0.44376463783757547,
+      "the": 0.3282401077442512,
+      "validator": 0.626866685948927,
+      "class": 0.626866685948927,
+      "contain": 0.626866685948927
+    }
+  },
+  {
+    "label": "generic_search",
+    "phrase": "Find all references to data loading.",
+    "symbol": "data loading",
+    "vector": {
+      "find": 0.44376463783757547,
+      "all": 0.44376463783757547,
+      "references": 0.626866685948927,
+      "to": 0.44376463783757547,
+      "data": 0.5113421558556028,
+      "loading": 0.626866685948927
+    }
+  },
+  {
+    "label": "generic_search",
+    "phrase": "Search for tokenization functions.",
+    "symbol": "tokenization",
+    "vector": {
+      "search": 0.9403000289233906,
+      "for": 0.5379405508148655,
+      "tokenization": 0.9403000289233906,
+      "functions": 0.7670132337834042
+    }
+  },
+  {
+    "label": "generic_search",
+    "phrase": "Look for mentions of preprocessing.",
+    "symbol": "preprocessing",
+    "vector": {
+      "look": 0.7522400231387125,
+      "for": 0.4303524406518924,
+      "mentions": 0.7522400231387125,
+      "of": 0.3127951076714686,
+      "preprocessing": 0.7522400231387125
+    }
+  },
+  {
+    "label": "generic_search",
+    "phrase": "Which code handles model training?",
+    "symbol": "model training",
+    "vector": {
+      "which": 0.4303524406518924,
+      "code": 0.7522400231387125,
+      "handles": 0.7522400231387125,
+      "model": 0.6136105870267234,
+      "training": 0.7522400231387125
+    }
+  },
+  {
+    "label": "generic_search",
+    "phrase": "Find argument parsing logic.",
+    "symbol": "argument parsing",
+    "vector": {
+      "find": 0.6656469567563632,
+      "argument": 0.9403000289233906,
+      "parsing": 0.9403000289233906,
+      "logic": 0.9403000289233906
+    }
+  },
+  {
+    "label": "generic_search",
+    "phrase": "Which parts deal with CSVs?",
+    "symbol": "CSV",
+    "vector": {
+      "which": 0.4303524406518924,
+      "parts": 0.7522400231387125,
+      "deal": 0.7522400231387125,
+      "with": 0.7522400231387125,
+      "csvs": 0.7522400231387125
+    }
+  }
+]
